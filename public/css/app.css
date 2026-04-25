@@ -1,0 +1,11 @@
+body {
+    font-family: sans-serif;
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+}
+
+article {
+    border-bottom: 1px solid #ccc;
+    padding: 1rem 0;
+}
